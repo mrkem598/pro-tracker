@@ -3,8 +3,7 @@
 ***
 Custom ServiceNow application that can track project activities and create intuitive dashboard.
 
-![Custom Application](https://github.com/mrkem598/customSN_app/blob/master/custom_app.png)
-
+<img width="800" alt="home_page" src="https://github.com/mrkem598/customSN_app/blob/master/custom_app.png">
 Mohammed is developing custom ServiceNow application as his side project. The app has the following features:
 * Tracking deliverables and tasks among project members.
 * Send an automatic email notification when there is a change.
