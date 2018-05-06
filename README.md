@@ -1,6 +1,7 @@
 ***
 # Custom Service Now application
 ***
+ServiceNow is a number one choice to simplify and transform the way we provide support and deliver services to our customer.
 Custom ServiceNow application that can track project activities and create intuitive dashboard.
 
 <img width="508" alt="custom_app" src="https://user-images.githubusercontent.com/23619819/39666695-fe6e2dce-5075-11e8-8dbd-14e62c245b31.png">
