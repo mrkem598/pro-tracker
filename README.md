@@ -10,15 +10,15 @@ Custom ServiceNow application that can track project activities and create intui
 
 <img width="100%" alt="custom_app" src="https://user-images.githubusercontent.com/23619819/39666695-fe6e2dce-5075-11e8-8dbd-14e62c245b31.png">
 
-# Mohammed is developing custom ServiceNow application as his side project. The app has the following features:
+# Mohammed's Pro-Tracker app has the following key features:
 * Tracking deliverables and tasks among project members.
 * Send an automatic email notification when there is a change.
 * Receive an inbound notification and update the database based on the content.
 * Has dashboard that reflect the status of each task and work load for each team members.
 * Managers and stakeholders have their own specific view to track task or assign new deliverables.
 * Show workflow of each task from the start to the end.
-* Service Catalog with a record producer for those who want to access the self-service
-
+* Service Catalog with a record producer for the end users
+* Intutive and attractive portal application 
 
      
      ***
