@@ -14,11 +14,11 @@ Custom ServiceNow application that can track project activities and create intui
 * Tracking deliverables and tasks among project members.
 * Send an automatic email notification when there is a change.
 * Receive an inbound notification and update the database based on the content.
-* Has dashboard that reflect the status of each task and work load for each team members.
+* Has a dashboard that reflects the status of each task and workload for each team members.
 * Managers and stakeholders have their own specific view to track task or assign new deliverables.
 * Show workflow of each task from the start to the end.
-* Service Catalog with a record producer for the end users
-* Intutive and attractive portal application 
+* Service Catalog with a record producer for the end-users
+* Intuitive and attractive portal application 
 
      
      ***
