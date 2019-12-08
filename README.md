@@ -16,6 +16,7 @@ Mohammed is developing custom ServiceNow application as his side project. The ap
 * Managers and stakeholders have their own specific view to track task or assign new deliverables.
 * Show workflow of each task from the start to the end.
 * Service Catalog with a record producer for those who want to access the self-service
+     
      ***
      *** For more tips and clue in ServiceNow subscribe to my channel  ***
      https://www.youtube.com/channel/UCWC4twe5TPcUBD9ICBCuDnQ?view_as=subscriber
