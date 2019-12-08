@@ -16,7 +16,8 @@ Mohammed is developing custom ServiceNow application as his side project. The ap
 * Show workflow of each task from the start to the end.
 * Service Catalog with a record producer for those who want to access the self-service
      ***
-     *** More features are added as we go along. Stay tuned! ***
+     *** Fore more tips and clue in ServiceNow subscribe to my channel  ***
+     https://www.youtube.com/channel/UCWC4twe5TPcUBD9ICBCuDnQ?view_as=subscriber
      ***
      
      <div id="google_translate_element"></div><script type="text/javascript">
