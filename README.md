@@ -1,13 +1,14 @@
    
-<img width="100%" alt="Screen Shot 2019-12-08 at 9 13 23 AM" src="https://user-images.githubusercontent.com/23619819/70390927-9646be80-199d-11ea-8af9-f21f1210cfcc.png">
+
 ***
 # Pro-Tracker Custom ServiceNow application
 ***
+<img width="100%" alt="Screen Shot 2019-12-08 at 9 13 23 AM" src="https://user-images.githubusercontent.com/23619819/70390927-9646be80-199d-11ea-8af9-f21f1210cfcc.png">
 Link: https://mrkem598.github.io/customSN_app/
 ServiceNow is a number one choice to simplify and transform the way we provide support and deliver services to our customer.
 Custom ServiceNow application that can track project activities and create intuitive dashboard.
 
-<img width="508" alt="custom_app" src="https://user-images.githubusercontent.com/23619819/39666695-fe6e2dce-5075-11e8-8dbd-14e62c245b31.png">
+<img width="100%" alt="custom_app" src="https://user-images.githubusercontent.com/23619819/39666695-fe6e2dce-5075-11e8-8dbd-14e62c245b31.png">
 
 Mohammed is developing custom ServiceNow application as his side project. The app has the following features:
 * Tracking deliverables and tasks among project members.
@@ -24,7 +25,7 @@ Mohammed is developing custom ServiceNow application as his side project. The ap
      *** For more tips and clue in ServiceNow subscribe to my channel  ***
      https://www.youtube.com/channel/UCWC4twe5TPcUBD9ICBCuDnQ?view_as=subscriber
      ***
-     <img width="1131" alt="Screen Shot 2019-12-08 at 8 59 24 AM" src="https://user-images.githubusercontent.com/23619819/70390471-57af0500-1999-11ea-8cd7-9aab3081eced.png">
+     <img width="100%" alt="Screen Shot 2019-12-08 at 8 59 24 AM" src="https://user-images.githubusercontent.com/23619819/70390471-57af0500-1999-11ea-8cd7-9aab3081eced.png">
      <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');}
