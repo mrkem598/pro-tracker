@@ -1,6 +1,6 @@
-***
-# Custom Service Now application
-***
+                    ***
+                    # Custom Service Now application
+                    ***
 Link: https://mrkem598.github.io/customSN_app/
 ServiceNow is a number one choice to simplify and transform the way we provide support and deliver services to our customer.
 Custom ServiceNow application that can track project activities and create intuitive dashboard.
@@ -16,7 +16,7 @@ Mohammed is developing custom ServiceNow application as his side project. The ap
 * Show workflow of each task from the start to the end.
 * Service Catalog with a record producer for those who want to access the self-service
      ***
-     *** Fore more tips and clue in ServiceNow subscribe to my channel  ***
+     *** For more tips and clue in ServiceNow subscribe to my channel  ***
      https://www.youtube.com/channel/UCWC4twe5TPcUBD9ICBCuDnQ?view_as=subscriber
      ***
      
